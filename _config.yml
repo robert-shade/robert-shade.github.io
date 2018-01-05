@@ -16,6 +16,7 @@ tagline: Developer/Technologist
 pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Technical leader with broad experience. Passionate about creating innovative, secure, and valuable software
 solutions. Always eager to take on new challenges and opportunities to expand my skillset.'
+pdf: assets/robert_shade.pdf
 
 #sidebar links
 email: robert.shade@gmail.com
