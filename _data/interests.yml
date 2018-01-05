@@ -1,9 +1,15 @@
 - interest:
-  item: Climbing
-  link:
+  item: <i class="fa fa-rocket"></i> Spaceflight
+  link: https://spaceflightnow.com
 - interest:
-  item: Snowboarding
-  link:
+  item: <i class="fa fa-steam"></i> Gaming
+  link: https://steamcommunity.com/id/DarkAurora
 - interest:
-  item: Cooking
-  link:
+  item: <i class="fa fa-spotify"></i> Music for Programming
+  link: https://open.spotify.com/user/redconfetti/playlist/03bKMoeCxREu1jKjPvCXwD
+- interest:
+  item: <i class="fa fa-spotify"></i> Coding Electronica
+  link: https://open.spotify.com/user/kevinmkuchta/playlist/0ldHe4Hou7oYfZhqCFKYxp
+- interest:
+  item: <i class="fa fa-microchip"></i> Fabricobbling
+  link: https://www.youtube.com/channel/UChWv6Pn_zP0rI6lgGt3MyfA

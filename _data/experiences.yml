@@ -1,28 +1,62 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  company: Presidio, Inc.
+  time: March 2008 - Present
+  roles:
+    - role: Director, IoT Software Solutions
+      time: Februrary 2016 - Present
+      #description: test
+      details: "
+      <ul>
+        <li>Provided technical leadership for directly reporting software team</li>
+        <li>Lead sales and envisioning processes for clients</li>
+        <li>Responsible for financial performance and utilization of software team</li>
+        <li>Chief architect and consultant for internal and external software solutions</li>
+        <li>Consultant on security of software solutions</li>
+        <li>Developed highly available, real time security verification and encryption gateway for vehicle telematics</li>
+      </ul>"
+    - role: Practice Manager, Software Development
+      time: June 2013 - Februrary 2016
+    - role: Software Development Lead
+      time: July 2012 - July 2013
+    - role: Sr. Software Engineer
+      time: March 2008 - July 2012
+      details: "
+      <ul>
+        <li>Lead design and implementation of software across all initiatives, including custom hardware development; Linux system and application development; automated Cisco/Sierra Wireless device diagnosis and configuration; and GPS tracking solutions</li>
+        <li>Drive new product and service development, including rapid prototype development for software and hardware systems</li>
+        <li>Serve as primary technical contact for new and existing customers, both during pre- and post-sales</li>
+        <li>Develop and supervise a six-person software development team in technical areas</li>
+        <li>Spearhead the growth of software development through the recruitment and training of new team members</li>
+        <li>Drive the development of standards and best practices for design and implementation</li>
+        <li>Collaborate with the internal hardware team on product development</li>
+        <li>Create both pre- and-post sale customer facing documentation</li>
+        <li>Designed and implemented system services and tools for support of Qualcomm MSM Interface (QMI) LTE Devices on Linux</li>
+        <li>Designed and implemented Cisco Home Agent compatible MobileIP client for Linux</li>
+        <li>Developed a custom network configuration and routing engine for custom, ruggedized Linux based routers for several Class 1 railroads. System managed priority based routing for several redundant wireless interfaces (802.11/GSM/CDMA).  Internal devices are managed via system APIs; external, via SNMP</li>
+        <li>Develop automated configuration and diagnosis tool chain for custom systems composed of Cisco, Sierra Wireless, Sixnet, and Red Hat Enterprise Linux computing components</li>
+        <li>Created backend services for real-time communication with thousands of GPS enabled wireless devices simultaneously. Services provide notifications for device events via email and SMPP</li>
+        <li>Created ASP.NET website for the configuration and viewing GPS enabled wireless devices. Live and historical data was visualized using the Google Maps JavaScript API</li>
+        <li>Developed various configuration utilities for custom hardware devices</li>
+        <li>Implemented a disaster recovery solution for services utilizing SQL Replication and BGP</li>
+      </ul>"
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: SARIS Technologies
+  roles:
+    - role: Software Architect
+      time: Feburary 2005 - March 2008
+      details: "
+      <ul>
+        <li>Architect and lead developer on www.eppraisal.com.  Project was built using .NET 2.0 and included development and optimization of a multi-million row database of property information</li>
+        <li>Led maintenance and development of an existing web application written in C#, ASP.NET, and with a Microsoft SQL backend.  The application was integrated with several 3rd party services including PayPal, eBay, and DOBA.  Integration was achieved through a combination of SOAP and custom web services.  Coordinated with clients that had their own custom brand of the application</li>
+        <li>Provided technical mentoring to the engineering and design teams</li>
+      </ul>"
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: DVS Consulting Services
+  roles:
+    - role: Software Engineer
+      time: 2001 - Feburary 2005
+      details: "
+      <ul>
+        <li>Designed and developed database driven applications using Visual Basic, Microsoft Access, Microsoft SQL Server (Including Transact SQL stored procedures), C#, ADO.NET, and ASP.NET</li>
+        <li>Administered a mixed Linux and Windows network used for e-Mail, web hosting, and SQL databases</li>
+      </ul>"

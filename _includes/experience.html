@@ -7,12 +7,32 @@
 
     <div class="meta">
 
-      <div class="upper-row">
-        <h3 class="job-title">{{ experience.role }}</h3>
-        <div class="time">{{ experience.time }}</div>
-      </div><!--//upper-row-->
+      <div class="company-head">
+        <div class="company">{{ experience.company }}</div>
+      </div>
 
-      <div class="company">{{ experience.company }}</div>
+      <div class="company-roles">
+        {% if experience.roles %}
+          {% for role in experience.roles %}
+            <div class="upper-row">
+              <h3 class="job-title">{{ role.role }}</h3>
+              <div class="time">{{ role.time }}</div>
+            </div>
+            <div class="job-detail">
+              {% if role.description %}
+              <div class="job-description">
+                <p>{{ role.description }}</p>
+              </div>
+              {% endif %}
+              {% if role.details %}
+              <div class="details">
+                <p>{{ role.details }}</p>
+              </div><!--//details-->
+              {% endif %}
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div>
 
     </div><!--//meta-->
 
