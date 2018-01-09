@@ -1,6 +1,6 @@
 # Site Settings
 title: Robert Shade's Resume
-url: 'https://robert-shade.github.io'
+url: 'http://robertshade.net'
 baseurl: '' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
