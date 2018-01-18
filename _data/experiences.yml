@@ -12,7 +12,8 @@
         <li>Responsible for financial performance and utilization of software team</li>
         <li>Chief architect and consultant for internal and external software solutions</li>
         <li>Consultant on security of software solutions</li>
-        <li>Developed highly available, real time security verification and encryption gateway for vehicle telematics</li>
+        <li>Design and implementation of highly available, real time security verification and encryption gateway
+for vehicle telematics</li>
       </ul>"
     - role: Practice Manager, Software Development
       time: June 2013 - Februrary 2016
@@ -23,17 +24,17 @@
       details: "
       <ul>
         <li>Lead design and implementation of software across all initiatives, including custom hardware development; Linux system and application development; automated Cisco/Sierra Wireless device diagnosis and configuration; and GPS tracking solutions</li>
-        <li>Drive new product and service development, including rapid prototype development for software and hardware systems</li>
-        <li>Serve as primary technical contact for new and existing customers, both during pre- and post-sales</li>
-        <li>Develop and supervise a six-person software development team in technical areas</li>
-        <li>Spearhead the growth of software development through the recruitment and training of new team members</li>
-        <li>Drive the development of standards and best practices for design and implementation</li>
-        <li>Collaborate with the internal hardware team on product development</li>
-        <li>Create both pre- and-post sale customer facing documentation</li>
+        <li>Drove new product and service development, including rapid prototype development for software and hardware systems</li>
+        <li>Served as primary technical contact for new and existing customers, both during pre- and post-sales</li>
+        <li>Developed and superviseed a six-person software development team in technical areas</li>
+        <li>Spearheaded the growth of software development through the recruitment and training of new team members</li>
+        <li>Drove the development of standards and best practices for design and implementation</li>
+        <li>Collaborated with the internal hardware team on product development</li>
+        <li>Created both pre- and-post sale customer facing documentation</li>
         <li>Designed and implemented system services and tools for support of Qualcomm MSM Interface (QMI) LTE Devices on Linux</li>
         <li>Designed and implemented Cisco Home Agent compatible MobileIP client for Linux</li>
         <li>Developed a custom network configuration and routing engine for custom, ruggedized Linux based routers for several Class 1 railroads. System managed priority based routing for several redundant wireless interfaces (802.11/GSM/CDMA).  Internal devices are managed via system APIs; external, via SNMP</li>
-        <li>Develop automated configuration and diagnosis tool chain for custom systems composed of Cisco, Sierra Wireless, Sixnet, and Red Hat Enterprise Linux computing components</li>
+        <li>Developed automated configuration and diagnosis tool chain for custom systems composed of Cisco, Sierra Wireless, Sixnet, and Red Hat Enterprise Linux computing components</li>
         <li>Created backend services for real-time communication with thousands of GPS enabled wireless devices simultaneously. Services provide notifications for device events via email and SMPP</li>
         <li>Created ASP.NET website for the configuration and viewing GPS enabled wireless devices. Live and historical data was visualized using the Google Maps JavaScript API</li>
         <li>Developed various configuration utilities for custom hardware devices</li>
