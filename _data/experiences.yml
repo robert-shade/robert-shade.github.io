@@ -1,9 +1,32 @@
 - experience:
+  company: ProXopS
+  time: Februrary 2018 - Present
+  roles: 
+     - role: Planning Analyst - Test and Operations Support Contract (TOSC)
+     - details: "
+        <ul>
+          <li>Requirements analysis, solution design, application development, unit/integration testing, 
+              and assessment/resolution of non-conformances on the Gateways team of NASA Exploration Ground Systems (EGS)</li>
+          <li>Responsible for acquisition of spacecraft telemetry, measurement publishing, event and alarm management, 
+              local commanding, and end-item commanding for:</li>
+          <li>
+            <ul>
+              <li>Kennedy Ground Control System (KGCS)</li>
+              <li>Ground Power Unit (GPU)</li>
+              <li>SLS core and side boosters</li>
+              <li>Interim Cryogenic Propulsion System (ICPS)</li>
+              <li>Orion Multipurpose Crew Vehicle (MPCV)</li>
+            </ul>
+          </li>
+          <li>Telemetry data decommutated using OS/COMET by Peraton (formerly Harris)</li>
+          <li>All code required to meet NASA standards for human rated spaceflight, facilitated by group code review</li>
+         </ul>"
+- experience:
   company: Presidio, Inc.
-  time: March 2008 - Present
+  time: March 2008 - Februrary 2018
   roles:
     - role: Director, IoT Software Solutions
-      time: Februrary 2016 - Present
+      time: Februrary 2016 - Februrary 2018
       #description: test
       details: "
       <ul>
