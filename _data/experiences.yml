@@ -6,6 +6,16 @@
        time: February 2018 - Present
        details: "
         <ul>
+          <li>Dedicated DevOps engineer reporting directly to the Head of Launch Command and Control Systems</li>
+          <li>Responsible for maximizing the use of automated processes for build, test, and deployment 
+              of the Spaceport Command and Control System (SCCS) through:
+              <ul>
+                <li>Streamlining of the build system and processes (Build & Unit Test time reduced from 10 to 3 hours)</li>
+                <li>Greater utilization of development resources though WPARs on the AIX portions of the system and Linux Containers on RedHat Enterprise Linux (RHEL) 6 (where Docker is not supported) on the remainder of the system
+                <li>Orchestration via Jenkins and OS scripting 
+                <li>Open Source contributions to the Jenkins core and utilized plugins
+              </ul>
+          </li>
           <li>Requirements analysis, solution design, application development, unit/integration testing, 
               and assessment/resolution of non-conformances on the Gateways team of NASA Exploration Ground Systems (EGS)</li>
           <li>Responsible for acquisition of spacecraft telemetry, measurement publishing, event and alarm management, 
